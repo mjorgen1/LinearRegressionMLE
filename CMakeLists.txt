@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5.1)
+project (eigen)
+add_definitions(-std=c++11)
+include_directories(/home/mackenzie/workspace/EigenLibrary)
+add_executable(eigen test.cc)

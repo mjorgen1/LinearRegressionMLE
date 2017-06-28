@@ -1,0 +1,7 @@
+##############
+# Ignored file
+##############
+.cproject
+.project
+build/
+testRun
